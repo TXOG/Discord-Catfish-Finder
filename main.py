@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import webbrowser
+import re
 
 
 def target_id_enter():
@@ -20,8 +21,24 @@ def discord_id_website():
     webbrowser.open(whole_url)
     page = requests.get(whole_url)
     parsepage = BeautifulSoup(page.content, 'html.parser')
-    links = parsepage.findAll("a")
+    links = parsepage.find_all('a', attrs={'href': re.compile("^https://")})
     print(links)
+    #### ^
+
+    string1 = ("discordapp.com")
+
+    flag = 0
+    index = 0
+
+    # Loop through the file line by line
+    for line in links:
+        index += 1
+
+        # checking string is present in line or not
+        if string1 in line:
+            #print
+          flag = 1
+          break
 
 
 target_id_enter()
