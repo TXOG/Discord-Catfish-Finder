@@ -3,6 +3,8 @@
 
 Enter a discord id and reverse image search the user
 
+## Misc
+
 Icon made by Nikita Golubev from https://www.flaticon.com/free-icons/catfish
 
 Developer: Thomas Kerby
