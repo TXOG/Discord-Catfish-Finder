@@ -3,6 +3,10 @@
 
 Enter a discord id and reverse image search the user
 
+## Requirements
+
+Google Chrome 
+
 ## Misc
 
 Icon made by Nikita Golubev from https://www.flaticon.com/free-icons/catfish
