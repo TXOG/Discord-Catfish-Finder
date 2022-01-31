@@ -13,7 +13,9 @@ Download the .py file from the releases tab. cd into the directory you downloade
 
 ## Requirements
 
-Google Chrome 
+### Windows
+
+Google Chrome
 
 ## Misc
 
