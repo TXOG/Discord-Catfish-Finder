@@ -9,7 +9,20 @@ Dowload the zip file (not source code) from the releases tab. Unzip the folder a
 
 ## Install on linux
 
-Download the .py file from the releases tab. cd into the directory you downloaded the file. Run *chmod +x DCF.py* in the terminal to make it executable. Run the python file by running *./DCF.py*
+### Download Files
+
+Download the .py file from the releases tab
+
+### Pip Commands
+
+Make sure you have pip installed and then run the commands:
+
+1. pip install requests
+2. pip install selenium
+
+### Terminal
+
+cd into the directory you downloaded the file. Run *chmod +x DCF.py* to make it executable. Run the python file by running *./DCF.py*
 
 ## Requirements
 
