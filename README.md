@@ -7,6 +7,8 @@ Enter a discord id and reverse image search the user
 
 Google Chrome 
 
+Windows
+
 ## Misc
 
 Icon made by Nikita Golubev from https://www.flaticon.com/free-icons/catfish
