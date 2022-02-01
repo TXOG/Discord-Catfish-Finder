@@ -28,7 +28,7 @@ cd into the directory you downloaded the file. Run `chmod +x DCF.py` to make it 
 
 - [x] Windows release
 - [x] Linux support
-- [] Gui
+- [ ] Gui
 
 ## Requirements
 
