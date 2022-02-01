@@ -41,9 +41,19 @@ cd into the directory you downloaded the file. Run `chmod +x DCFlinux.py` to mak
 
 - [x] Windows release
 - [x] Linux support
-- [ ] Make command line look pretty with Colorama
-- [ ] Error handling
+- [x] Make command line look pretty with Colorama
+- [x] Error handling
 - [ ] Gui
+
+## What does each colour mean?
+
+Green - Information
+
+Blue - User input
+
+Red - Error
+
+White - Ignore
 
 ## Requirements
 
