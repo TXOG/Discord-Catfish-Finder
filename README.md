@@ -24,6 +24,12 @@ Make sure you have pip installed and then run the commands:
 
 cd into the directory you downloaded the file. Run `chmod +x DCF.py` to make it executable. Run the python file by running `./DCF.py`
 
+## Progress
+
+- [x] Windows release
+- [x] Linux support
+- [] Gui
+
 ## Requirements
 
 ### Windows
