@@ -35,7 +35,7 @@ Make sure you have pip installed and then run the commands:
 
 ### Terminal
 
-cd into the directory you downloaded the file. Run `chmod +x DCF.py` to make it executable. Run the python file by running `./DCF.py`
+cd into the directory you downloaded the file. Run `chmod +x DCFlinux.py` to make it executable. Run the python file by running `./DCFlinux.py`
 
 ## Progress
 
