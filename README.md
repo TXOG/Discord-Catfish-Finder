@@ -28,6 +28,7 @@ cd into the directory you downloaded the file. Run `chmod +x DCF.py` to make it 
 
 - [x] Windows release
 - [x] Linux support
+- [ ] Make command line look pretty with Colorama
 - [ ] Error handling
 - [ ] Gui
 
