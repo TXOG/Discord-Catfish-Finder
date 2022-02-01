@@ -45,13 +45,13 @@ cd into the directory you downloaded the file. Run `chmod +x DCFlinux.py` to mak
 - [x] Error handling
 - [ ] Gui
 
-## What does each colour mean?
+## Colour codes
+
+Red - Error
 
 Green - Information
 
 Blue - User input
-
-Red - Error
 
 White - Ignore
 
