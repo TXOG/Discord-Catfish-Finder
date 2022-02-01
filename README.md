@@ -17,12 +17,12 @@ Download the .py file from the releases tab
 
 Make sure you have pip installed and then run the commands:
 
-1. pip install requests
-2. pip install selenium
+1) `pip install requests`
+2) `pip install selenium`
 
 ### Terminal
 
-cd into the directory you downloaded the file. Run *chmod +x DCF.py* to make it executable. Run the python file by running *./DCF.py*
+cd into the directory you downloaded the file. Run `chmod +x DCF.py` to make it executable. Run the python file by running `./DCF.py`
 
 ## Requirements
 
