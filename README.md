@@ -30,6 +30,10 @@ cd into the directory you downloaded the file. Run *chmod +x DCF.py* to make it 
 
 Google Chrome
 
+### Linux
+
+Firefox
+
 ## Misc
 
 Icon made by Nikita Golubev from https://www.flaticon.com/free-icons/catfish
