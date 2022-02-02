@@ -32,6 +32,7 @@ Make sure you have pip installed and then run the commands:
 
 1) `pip install requests`
 2) `pip install selenium`
+3) `pip install colorama`
 
 ### Terminal
 
