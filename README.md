@@ -44,6 +44,8 @@ cd into the directory you downloaded the file. Run `chmod +x DCFlinux.py` to mak
 - [x] Make command line look pretty with Colorama
 - [x] Error handling
 - [ ] Gui
+- [ ] Create C# version
+- [ ] Create C# Gui
 
 ## Colour codes
 
