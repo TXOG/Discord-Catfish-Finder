@@ -26,11 +26,11 @@ Dowload the zip file (not source code) from the releases tab. Unzip the folder a
 
 Download DCF.linux.V1.1.7z from releases tab
 
-### Run bash file
+### Run bash file (installing dependencies)
 
-Run the bash file (extension .sh). You can see the contents of this file in the source code folder under the version you are installing.
+Run the runme.sh by `bash runme.sh`. You can see the contents of this file in the source code folder under the version you are installing.
 
-### Terminal
+### Run python file
 
 cd into the directory you downloaded the file. Run `chmod +x DCFlinux.py` to make it executable. Run the python file by running `./DCFlinux.py`
 
