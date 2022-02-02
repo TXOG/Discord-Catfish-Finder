@@ -24,15 +24,11 @@ Dowload the zip file (not source code) from the releases tab. Unzip the folder a
 
 ### Download Files
 
-Download the .py file from the releases tab
+Download DCF.linux.V1.1.7z from releases tab
 
-### Pip Commands
+### Run bash file
 
-Make sure you have pip installed and then run the commands:
-
-1) `pip install requests`
-2) `pip install selenium`
-3) `pip install colorama`
+Run the bash file (extension .sh). You can see the contents of this file in the source code folder under the version you are installing.
 
 ### Terminal
 
@@ -67,6 +63,8 @@ Google Chrome
 ### Linux
 
 Firefox
+
+Python
 
 ## Misc
 
