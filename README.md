@@ -28,7 +28,7 @@ Download DCF.linux.V1.1.7z from releases tab
 
 ### Run bash file (installing dependencies)
 
-Run the runme.sh by `bash runme.sh`. You can see the contents of this file in the source code folder under the version you are installing.
+Run the runme.sh by `bash runme.sh`. Make sure you are in the same directory. You can see the contents of this file in the source code folder under the version you are installing.
 
 ### Run python file
 
