@@ -3,7 +3,8 @@ import webbrowser
 from selenium import webdriver
 import time
 import json
-from colorama import Fore
+import colorama
+from colorama import Fore, init
 from selenium.webdriver.chrome.options import Options
 
 print("""            _____   _____ ______
@@ -14,6 +15,8 @@ print("""            _____   _____ ______
            |_____/ \_____|_|
 
                        """)
+
+colorama.init()
 
 global pfp
 pfp = "a"
