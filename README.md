@@ -66,6 +66,8 @@ Firefox
 
 Python
 
+Pip
+
 ## Misc
 
 Icon made by Nikita Golubev from https://www.flaticon.com/free-icons/catfish
