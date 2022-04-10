@@ -57,7 +57,7 @@ White - Ignore
 
 ### Windows
 
-Google Chrome
+Google Chrome V100.0.4896.60
 
 ### Linux
 
