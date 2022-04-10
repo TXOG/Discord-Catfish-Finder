@@ -8,7 +8,7 @@
 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 
 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 
 
-The Discord Catfish Finder, enter a users id and it will automatically reverse image search their profile picture. This can be used for people with irl photos, and with people using art for their profile pictures. Note: Yandex returning no matches/clear results for names/places/art means that there is a high chance that the user is legit, but not 100%
+The Discord Catfish Finder, enter a users id and it will automatically reverse image search their profile picture. This can be used for people with irl photos, and with people using art for their profile pictures. Note: Yandex returning no matches/clear results for names/places/art means that there is a high chance that the user is legit, but not 100%. Due to gui issues the project will revert back to a cli format
  𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 
 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳
 
@@ -40,12 +40,8 @@ cd into the directory you downloaded the file. Run `chmod +x DCFlinux.py` to mak
 - [x] Linux support
 - [x] Make command line look pretty with Colorama
 - [x] Error handling
-- [x] Gui
-- [ ] Good looking gui
-- [ ] No cmd with gui
-- [ ] Gui updates with running info
-- [ ] Create C# version
-- [ ] Create C# Gui
+- [ ] Rich
+
 
 ## Colour codes
 
