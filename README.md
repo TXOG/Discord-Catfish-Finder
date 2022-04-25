@@ -16,13 +16,13 @@ The Discord Catfish Finder, enter a users id and it will automatically reverse i
 
 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 
 
-## Install on windows
+## Install on windows - latest v1.4
 
 Either:
 * Dowload the zip file (not source code) from the releases tab. Unzip the folder and run the runme.exe
 * Gitclone the repo and run main.py - a batch file will automatically install the dependencies (you will need python and pip installed for this)
 
-## Install on linux
+## Install on linux - latest v1.1
 
 ### Download Files
 
