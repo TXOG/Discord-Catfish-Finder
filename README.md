@@ -16,7 +16,7 @@ The Discord Catfish Finder, enter a users id and it will automatically reverse i
 
 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 
 
-## Install on windows - latest v1.4
+## Install on windows - latest v1.5
 
 Either:
 * Dowload the zip file (not source code) from the releases tab. Unzip the folder and run the runme.exe
