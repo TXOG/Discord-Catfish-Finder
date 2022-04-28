@@ -16,7 +16,7 @@ The Discord Catfish Finder, enter a users id and it will automatically reverse i
 
 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 𝅳 
 
-## Install on windows - latest v1.5
+## Install on windows - latest v1.6
 
 Either:
 * Dowload the zip file (not source code) from the releases tab. Unzip the folder and run the runme.exe
@@ -42,7 +42,7 @@ cd into the directory you downloaded the file. Run `chmod +x DCFlinux.py` to mak
 - [x] Linux support
 - [x] Make command line look pretty with Colorama
 - [x] Error handling
-- [ ] Rich
+- [x] Rich
 
 
 ## Colour codes
