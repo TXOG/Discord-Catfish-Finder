@@ -1,3 +1,9 @@
+# socialscraper.co.uk
+
+As of 06/05/2022 (uk date) V1 of the Discord Catfish Finder is discontinued. For future support and access to other social media scrapers, please use socialscraper.co.uk. Currently, the website is buggy, but it is improving by the day :). I hope to see you there.
+
+
+
 # Discord-Catfish-Finder
 
 <img align="left" src="https://raw.githubusercontent.com/TXOG/Discord-Catfish-Finder/v1.0/icon.png?token=GHSAT0AAAAAABRCO3SU6BKN36NRLPCPCWJUYPWP57Q" width=25% height=25%>
