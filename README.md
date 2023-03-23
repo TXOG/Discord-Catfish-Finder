@@ -1,6 +1,6 @@
 # http://socialscraper.co.uk
 
-As of 06/05/2022 (uk date) V1 of the Discord Catfish Finder is discontinued. For future support and access to other social media scrapers, please use socialscraper.co.uk(http://socialscraper.co.uk). Currently, the website is buggy, but it is improving by the day :). I hope to see you there.
+As of 06/05/2022 (uk date) V1 of the Discord Catfish Finder is discontinued. For future support and access to other social media scrapers, please use [socialscraper.co.uk](http://socialscraper.co.uk). **Please note the website is permanantly down, and will redirect you to some of my other projects while I revive Social Scraper**
 
 
 
